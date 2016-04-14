@@ -1,4 +1,4 @@
 # Hotspots
 Monitoring Enzyme Activity in Natural Substrates on a Millimeter Resolution Scale
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/VetrovskyTomas/Hotspots/blob/master/scale_down.png)
